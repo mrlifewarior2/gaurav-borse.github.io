@@ -2000,5 +2000,10 @@ h3.lght {
     margin-left: 20px !important;
   }
 }
+@media (max-width: 576px) {
+  .mobile-small {
+    height: 54px !important;
+  }
+}
 
 /*# sourceMappingURL=main.css.map */
